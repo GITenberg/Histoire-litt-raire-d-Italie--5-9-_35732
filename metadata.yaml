@@ -1,0 +1,42 @@
+_repo: Histoire-litt-raire-d-Italie--5-9-_35732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ginguené, Pierre Louis
+    aliases:
+    - Ginguene, Pierre Louis
+    - Ginguené, Pierre-Louis
+    - Ginguené, P. L. (Pierre Louis)
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '35222'
+    url: http://www.gutenberg.org/2009/agents/35222
+  editor:
+    agent_name: Daunou, P. C. F. (Pierre Claude François)
+    aliases:
+    - Daunou, Pierre Claude François
+    - Daunou, Pierre-Claude-François
+    - Daunou, P. C. F. (Pierre Claude Francois)
+    birthdate: 1761
+    deathdate: 1840
+    gutenberg_agent_id: '35223'
+    url: http://www.gutenberg.org/2009/agents/35223
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Claude_Fran%C3%A7ois_Daunou
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35732'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian literature -- History and criticism'
+- !lcc 'PQ'
+title: Histoire littéraire d'Italie (5/9)
+url: http://www.gutenberg.org/ebooks/35732
