@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35223
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Claude_Fran%C3%A7ois_Daunou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35732#Histoire-litt-raire-d-Italie--5-9-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-03-31'
 gutenberg_type: Text
